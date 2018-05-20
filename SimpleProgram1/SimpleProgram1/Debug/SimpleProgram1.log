@@ -1,12 +1,6 @@
-﻿Построение начато 06.03.2018 15:46:21.
-     1>Проект "E:\SimpleProgram1\SimpleProgram1\SimpleProgram1.vcxproj" в узле 2 (целевые объекты Build).
-     1>ClCompile:
-         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SimpleProgram1.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
-         Main.cpp
-     1>e:\simpleprogram1\simpleprogram1\main.cpp(20): error C2065: tn: необъявленный идентификатор
-     1>e:\simpleprogram1\simpleprogram1\main.cpp(20): error C2065: tk: необъявленный идентификатор
-     1>Построение проекта "E:\SimpleProgram1\SimpleProgram1\SimpleProgram1.vcxproj" завершено (целевые объекты Build) с ошибкой.
-
-Сбой построения.
-
-Затраченное время: 00:00:03.26
+﻿  Main.cpp
+c:\users\evgps\documents\github\space_navi\simpleprogram1\simpleprogram1\main.cpp(90): warning C4101: 'dP': unreferenced local variable
+c:\users\evgps\documents\github\space_navi\simpleprogram1\simpleprogram1\main.cpp(83): warning C4101: 'p': unreferenced local variable
+c:\users\evgps\documents\github\space_navi\simpleprogram1\simpleprogram1\main.cpp(127): warning C4101: 'i': unreferenced local variable
+c:\users\evgps\documents\github\space_navi\simpleprogram1\simpleprogram1\main.cpp(127): warning C4101: 't': unreferenced local variable
+  SimpleProgram1.vcxproj -> C:\Users\evgps\Documents\GitHub\space_navi\SimpleProgram1\Debug\SimpleProgram1.exe
